@@ -7,3 +7,4 @@ let f = function (n) {
         return console.log("Liczba znajduje się w przedziale");
     }
 }
+f(108);
